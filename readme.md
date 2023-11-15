@@ -1,0 +1,1 @@
+naive implementation of the `rc4` algorithm
